@@ -1,0 +1,14 @@
+products:
+   src/main/scala/com/cloudera/ps/AddPartitions.scala -> target/classes/com/cloudera/ps/AddPartitions$.class
+   src/main/scala/com/cloudera/ps/AddPartitions.scala -> target/classes/com/cloudera/ps/AddPartitions.class
+binary dependencies:
+   src/main/scala/com/cloudera/ps/AddPartitions.scala -> /Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/com/cloudera/ps/AddPartitions.scala -> /Users/harimatta/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar
+   src/main/scala/com/cloudera/ps/AddPartitions.scala -> /Users/harimatta/.m2/repository/org/apache/spark/spark-sql_2.11/2.3.0.2.6.5.5002-3/spark-sql_2.11-2.3.0.2.6.5.5002-3.jar
+   src/main/scala/com/cloudera/ps/AddPartitions.scala -> /Users/harimatta/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   src/main/scala/com/cloudera/ps/AddPartitions.scala -> /Users/harimatta/.m2/repository/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar
+source dependencies:
+external dependencies:
+class names:
+   src/main/scala/com/cloudera/ps/AddPartitions.scala -> com.cloudera.ps.AddPartitions
+   src/main/scala/com/cloudera/ps/AddPartitions.scala -> com.cloudera.ps.AddPartitions$

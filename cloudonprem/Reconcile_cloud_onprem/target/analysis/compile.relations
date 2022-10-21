@@ -1,0 +1,45 @@
+products:
+   src/main/scala/com/cloudera/ps/CloudReconcile.scala -> target/classes/com/cloudera/ps/CloudReconcile$.class
+   src/main/scala/com/cloudera/ps/CloudReconcile.scala -> target/classes/com/cloudera/ps/CloudReconcile.class
+   src/main/scala/com/cloudera/ps/recon/FileCount.scala -> target/classes/com/cloudera/ps/recon/FileCount.class
+   src/main/scala/com/cloudera/ps/recon/RecordCount.scala -> target/classes/com/cloudera/ps/recon/RecordCount.class
+   src/main/scala/com/cloudera/ps/util/ControlFile.scala -> target/classes/com/cloudera/ps/util/ControlFile$.class
+   src/main/scala/com/cloudera/ps/util/ControlFile.scala -> target/classes/com/cloudera/ps/util/ControlFile.class
+binary dependencies:
+   src/main/scala/com/cloudera/ps/CloudReconcile.scala -> /Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/com/cloudera/ps/CloudReconcile.scala -> /Users/harimatta/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar
+   src/main/scala/com/cloudera/ps/CloudReconcile.scala -> /Users/harimatta/.m2/repository/org/apache/spark/spark-sql_2.11/2.3.0.2.6.5.5002-3/spark-sql_2.11-2.3.0.2.6.5.5002-3.jar
+   src/main/scala/com/cloudera/ps/CloudReconcile.scala -> /Users/harimatta/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   src/main/scala/com/cloudera/ps/recon/FileCount.scala -> /Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/com/cloudera/ps/recon/FileCount.scala -> /Users/harimatta/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar
+   src/main/scala/com/cloudera/ps/recon/FileCount.scala -> /Users/harimatta/.m2/repository/org/apache/hadoop/hadoop-azure/2.7.3.2.6.5.5002-3/hadoop-azure-2.7.3.2.6.5.5002-3.jar
+   src/main/scala/com/cloudera/ps/recon/FileCount.scala -> /Users/harimatta/.m2/repository/org/apache/hadoop/hadoop-common/2.7.3.2.6.5.5002-3/hadoop-common-2.7.3.2.6.5.5002-3.jar
+   src/main/scala/com/cloudera/ps/recon/FileCount.scala -> /Users/harimatta/.m2/repository/org/apache/spark/spark-core_2.11/2.3.0.2.6.5.5002-3/spark-core_2.11-2.3.0.2.6.5.5002-3.jar
+   src/main/scala/com/cloudera/ps/recon/FileCount.scala -> /Users/harimatta/.m2/repository/org/apache/spark/spark-sql_2.11/2.3.0.2.6.5.5002-3/spark-sql_2.11-2.3.0.2.6.5.5002-3.jar
+   src/main/scala/com/cloudera/ps/recon/FileCount.scala -> /Users/harimatta/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   src/main/scala/com/cloudera/ps/recon/FileCount.scala -> /Users/harimatta/.m2/repository/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar
+   src/main/scala/com/cloudera/ps/recon/RecordCount.scala -> /Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/com/cloudera/ps/recon/RecordCount.scala -> /Users/harimatta/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar
+   src/main/scala/com/cloudera/ps/recon/RecordCount.scala -> /Users/harimatta/.m2/repository/org/apache/spark/spark-catalyst_2.11/2.3.0.2.6.5.5002-3/spark-catalyst_2.11-2.3.0.2.6.5.5002-3.jar
+   src/main/scala/com/cloudera/ps/recon/RecordCount.scala -> /Users/harimatta/.m2/repository/org/apache/spark/spark-core_2.11/2.3.0.2.6.5.5002-3/spark-core_2.11-2.3.0.2.6.5.5002-3.jar
+   src/main/scala/com/cloudera/ps/recon/RecordCount.scala -> /Users/harimatta/.m2/repository/org/apache/spark/spark-sql_2.11/2.3.0.2.6.5.5002-3/spark-sql_2.11-2.3.0.2.6.5.5002-3.jar
+   src/main/scala/com/cloudera/ps/recon/RecordCount.scala -> /Users/harimatta/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   src/main/scala/com/cloudera/ps/recon/RecordCount.scala -> /Users/harimatta/.m2/repository/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar
+   src/main/scala/com/cloudera/ps/util/ControlFile.scala -> /Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/com/cloudera/ps/util/ControlFile.scala -> /Users/harimatta/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar
+   src/main/scala/com/cloudera/ps/util/ControlFile.scala -> /Users/harimatta/.m2/repository/org/apache/hadoop/hadoop-common/2.7.3.2.6.5.5002-3/hadoop-common-2.7.3.2.6.5.5002-3.jar
+   src/main/scala/com/cloudera/ps/util/ControlFile.scala -> /Users/harimatta/.m2/repository/org/apache/spark/spark-core_2.11/2.3.0.2.6.5.5002-3/spark-core_2.11-2.3.0.2.6.5.5002-3.jar
+   src/main/scala/com/cloudera/ps/util/ControlFile.scala -> /Users/harimatta/.m2/repository/org/apache/spark/spark-sql_2.11/2.3.0.2.6.5.5002-3/spark-sql_2.11-2.3.0.2.6.5.5002-3.jar
+   src/main/scala/com/cloudera/ps/util/ControlFile.scala -> /Users/harimatta/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+source dependencies:
+   src/main/scala/com/cloudera/ps/CloudReconcile.scala -> src/main/scala/com/cloudera/ps/recon/FileCount.scala
+   src/main/scala/com/cloudera/ps/recon/FileCount.scala -> src/main/scala/com/cloudera/ps/recon/RecordCount.scala
+   src/main/scala/com/cloudera/ps/recon/RecordCount.scala -> src/main/scala/com/cloudera/ps/util/ControlFile.scala
+external dependencies:
+class names:
+   src/main/scala/com/cloudera/ps/CloudReconcile.scala -> com.cloudera.ps.CloudReconcile
+   src/main/scala/com/cloudera/ps/CloudReconcile.scala -> com.cloudera.ps.CloudReconcile$
+   src/main/scala/com/cloudera/ps/recon/FileCount.scala -> com.cloudera.ps.recon.FileCount
+   src/main/scala/com/cloudera/ps/recon/RecordCount.scala -> com.cloudera.ps.recon.RecordCount
+   src/main/scala/com/cloudera/ps/util/ControlFile.scala -> com.cloudera.ps.util.ControlFile
+   src/main/scala/com/cloudera/ps/util/ControlFile.scala -> com.cloudera.ps.util.ControlFile$
